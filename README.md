@@ -1,4 +1,5 @@
 # Hide-Show-Elements-Simple-Way
+--Check Out Demo: https://simplifiedweb.github.io/Hide-Show-Elements-Simple-Way/
 I'll explain you how I developed a Simple way to Make a Hide and Show elements, Overall The logic will be going to be same To any other objectives you're doing.
 Basically we're selecting the Main-container bcz that's the part we have to show and hide, and uses the style property 
 to make it visible or disable. so simple the condition means if( It is disable )then make it visible. 
